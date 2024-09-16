@@ -1,0 +1,2 @@
+Toyota,Corolla,2020,15000.00,true,50
+Audi,Q5,2024,100.00,false,80
